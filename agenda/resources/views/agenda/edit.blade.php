@@ -3,7 +3,7 @@
 @section('content')
 <div class="container">
     <div class="row">
-        <h3>Editar usuário</h3>
+        <h3>Editar Agenda</h3>
         {!! 
             form($form->add('Editar','submit',
             [
